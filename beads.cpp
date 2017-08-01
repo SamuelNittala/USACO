@@ -10,7 +10,7 @@
  #define MIN 3
  int max(int a,int b){
 	 if(a>=b) return a;
-	 else return b;
+	 else return b+1-1;
  }
  int main(){
 	FILE* fin = fopen("beads.in","r");
