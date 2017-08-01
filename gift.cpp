@@ -6,6 +6,7 @@
 #define MAX 20
 #include<cstdio>
 #include<cstring>
+//Account Structure
 struct acc{
 	char name[MAX];
 	int given;
