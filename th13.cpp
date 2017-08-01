@@ -1,7 +1,7 @@
 /*
  ID: nittala2
  PROB: friday
- LANG: C++
+ LANG: CPP
  */
 #include<cstdio>
 /*
